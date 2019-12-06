@@ -1,0 +1,41 @@
+[
+  {
+    "player": "Soledad",
+    "cards": [
+      "heart / ten (10)",
+      "heart / eight (8)",
+      "spade / seven (7)",
+      "club / four (4)",
+      "diamond / jack (11)"
+    ],
+    "flush": "no",
+    "twoPairs": "no",
+    "straight": "no"
+  },
+  {
+    "player": "Geo",
+    "cards": [
+      "club / queen (12)",
+      "spade / two (2)",
+      "spade / queen (12)",
+      "diamond / ten (10)",
+      "spade / jack (11)"
+    ],
+    "flush": "no",
+    "twoPairs": "no",
+    "straight": "no"
+  },
+  {
+    "player": "Jeanie",
+    "cards": [
+      "spade / five (5)",
+      "club / eight (8)",
+      "heart / ace (14)",
+      "diamond / two (2)",
+      "diamond / three (3)"
+    ],
+    "flush": "no",
+    "twoPairs": "no",
+    "straight": "no"
+  }
+]
